@@ -1,0 +1,15 @@
+PyPDF2
+langchain-community
+langchain
+langchain-text-splitters
+langgraph
+langchain-core
+pydantic
+langchain-google-genai
+torch
+transformers
+pillow
+openai
+fastapi
+uvicorn
+python-multipart
